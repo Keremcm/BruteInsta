@@ -1,4 +1,4 @@
-# BruteInsta
+# 👾BruteInsta
 
 This tool, with information you know about a person, produces tens of thousands of passwords to the instagram account to apply BruteForce Attack.
 >>> ⚠️This project is entirely "for educational purposes". Using this tool means that you accept any responsibility or legal process only for yourself.
