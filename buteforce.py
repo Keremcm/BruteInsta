@@ -13,7 +13,7 @@ paths = {
 # Declaring Variables
 start = time.time()
 attempt = [0]
-victim = 'semanur_kaysi'
+victim = 'account name'
 report = {}
 guess_passwords = []
 with open(paths['guessPasswords'], "r") as file:
