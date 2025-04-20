@@ -37,11 +37,11 @@ def save_to_txt(passwords, filename="wordlist.txt"):
 
 # Kullanıcı bilgileri
 info = {
-    "ad": "Semanur",
-    "soyad": "Sema",
-    "dogum": "1987",
-    "sehir": "Trabzon",
-    "takim": "TS"
+    "ad": "name",
+    "soyad": "surname",
+    "dogum": "birth year",
+    "sehir": "city",
+    "takim": "team"
 }
 
 # Üret ve kaydet
